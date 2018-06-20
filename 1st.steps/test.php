@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <title>
-        Первая проба пера в PhpStorm!
+        Первая проба пера в PhpStorm!2
     </title>
 </head>
 <body>
